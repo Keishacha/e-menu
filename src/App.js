@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      nai
+      nai jamet
     </div>
   );
 }
