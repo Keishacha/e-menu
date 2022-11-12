@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      ini kodingan yach
+      ieu navbar
     </div>
   );
 }
