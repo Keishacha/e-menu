@@ -1,0 +1,68 @@
+.d-none {
+    display: none;
+}
+
+.d-flex {
+    /* display: flex;*/
+} 
+
+.model{
+    position: absolute;
+    top: 270px;
+    left: 500px;
+    background-color: white;
+    width: 400px;
+    border-radius: 7px;
+}
+
+.model-images{
+    width: 250px;
+    text-align: left;
+}
+
+.model-title{
+    margin-top: 15px;
+    margin-bottom: 8px;
+    padding-left: 16px;
+}
+ 
+.model-desc{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-left: 16px;
+}
+    
+.model-price{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-left: 16px;
+}
+
+.model-body{
+    position: relative;
+}
+
+.relative {
+    font-weight: bold;
+    position: absolute;
+    top: -60px;
+    right: 8px;
+    margin: 0px;
+}
+
+.flex {
+    display: flex;
+}
+
+.card {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.detail-product{
+    margin-left: -280px;
+}
+
+.love{
+    margin-right: 100px;
+}

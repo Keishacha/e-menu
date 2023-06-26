@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&family=Playfair+Display&family=Quicksand&family=Roboto+Mono:wght@100;400&family=Rubik+Maze&display=swap');
+
+.promo{
+    font-family: 'Quicksand', sans-serif;
+    margin: 10px auto;
+    width: 950px;
+    border-radius: 20px;
+    padding: 6px;
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&family=Playfair+Display&family=Quicksand&family=Roboto+Mono:wght@100;400&family=Rubik+Maze&display=swap');
+
+.kategori{
+    font-family: 'Quicksand', sans-serif;
+    margin: 40px auto;
+    margin-bottom: 25px;
+}
+
+.title{
+    margin-right: 870px;
+}
+
+.hoper button{
+    width: 11%;
+    border-radius: 50px;
+    background-color: whitesmoke ;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+    transition: 0.3s ease 0s;
+}
+
+.hoper button:hover{
+    background-color: rgb(184, 180, 180) ;
+    
+}

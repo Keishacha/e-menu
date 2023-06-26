@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&family=Playfair+Display&family=Quicksand&family=Roboto+Mono:wght@100;400&family=Rubik+Maze&display=swap');
+
+.category{
+    font-family: 'Quicksand', sans-serif;
+    width: 200px;
+    background-color: rgba(59, 131, 246, 0.055);
+    margin: 50px ;
+    margin-left: 200px ;
+    border-radius: 25px;
+    padding: 7px;
+}
+
+.category h4{
+    padding: 10px 0px;
+    margin-left: 20px;
+}
+
+.category p{
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.category p:hover{
+    background-color: beige;
+    border-radius: 20px;
+    min-width: min-content;
+}

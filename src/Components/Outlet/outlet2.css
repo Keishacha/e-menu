@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&family=Playfair+Display&family=Quicksand&family=Roboto+Mono:wght@100;400&family=Rubik+Maze&display=swap');
+
+.close{
+    font-family: 'Quicksand', sans-serif;
+    width: 950px;
+    background-color: rgba(255, 0, 0, 0.249);
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.text{
+    text-align: left;
+    padding: 10px;
+}
+
+.tutup{
+    text-decoration: line-through;
+}
