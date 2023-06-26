@@ -20,7 +20,7 @@ function App() {
       <Navbar/>
     
       <br></br>
-      <img src='https://i.pinimg.com/564x/04/8c/44/048c44cd151b422746ebc6858d765fd3.jpg'></img>
+      <img src='images/cat.jpg' alt='cat'></img>
 
       <Outlet/>
 

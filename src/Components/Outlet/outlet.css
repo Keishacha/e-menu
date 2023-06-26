@@ -40,4 +40,6 @@
 
 .icon{
     text-align: left;
+    width: fit-content;
+    bottom: 50px;
 }
